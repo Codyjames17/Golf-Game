@@ -1,0 +1,1 @@
+if(gc 5*|? Le* -ge 5){echo "Greater/Equal to 5"}
