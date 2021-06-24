@@ -1,5 +1,3 @@
-Clear-Host
-
 function Set-CharacterLimit {
     param(
         [Parameter(Mandatory)]
